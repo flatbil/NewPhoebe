@@ -1,0 +1,11 @@
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\bin\Debug\netcoreapp2.0\NewPhoebe.deps.json
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\bin\Debug\netcoreapp2.0\NewPhoebe.runtimeconfig.json
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\bin\Debug\netcoreapp2.0\NewPhoebe.runtimeconfig.dev.json
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\bin\Debug\netcoreapp2.0\NewPhoebe.dll
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\bin\Debug\netcoreapp2.0\NewPhoebe.pdb
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.csprojAssemblyReference.cache
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.csproj.CoreCompileInputs.cache
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.AssemblyInfoInputs.cache
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.AssemblyInfo.cs
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.dll
+C:\Users\waalmond\source\repos\NewPhoebe\NewPhoebe\obj\Debug\netcoreapp2.0\NewPhoebe.pdb

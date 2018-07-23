@@ -1,0 +1,15 @@
+{
+    "name": "Phoebe",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "1e0c7870-8dde-11e8-8710-9fc97ffb59c2",
+            "name": "Phoebe",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:1205/api/messages"
+        }
+    ]
+}

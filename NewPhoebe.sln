@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewPhoebe", "NewPhoebe\NewPhoebe.csproj", "{524A345D-C8FE-4D96-BBF0-37C96977EC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524A345D-C8FE-4D96-BBF0-37C96977EC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524A345D-C8FE-4D96-BBF0-37C96977EC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524A345D-C8FE-4D96-BBF0-37C96977EC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524A345D-C8FE-4D96-BBF0-37C96977EC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4515B88A-01A2-43CE-BC7C-205BDDD65CCE}
+	EndGlobalSection
+EndGlobal
